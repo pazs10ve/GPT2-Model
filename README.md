@@ -1,2 +1,2 @@
-# iteration001_llm_multitoken
-LLM Multi Tokens
+# GPT2 Architecture
+Implemented the GPT2 Architecture
